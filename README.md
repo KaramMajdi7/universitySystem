@@ -33,3 +33,29 @@ diagram:
 ![image](https://user-images.githubusercontent.com/74671857/155381242-195f5be2-4d6f-4e59-8836-385106f3c101.png)
 
 
+And now let's take a look at the implementation using Python and the Tkinter library and some other libraries, and having a databse to store all the log in and registration information in a table.
+
+First of all lets take a look at the Register window:
+![register1](https://user-images.githubusercontent.com/74671857/155679889-e1725e6e-13ae-4472-a79f-744aca08c913.JPG)
+
+So here we have at the right the form to register in the system and when you finish filling this form it will save all the information in the database MySQL that we have, and after that:
+![register2](https://user-images.githubusercontent.com/74671857/155680092-98f247e4-b4c8-4c2a-be3c-59f160b7560f.JPG)
+
+You will have an email and password so now you could click at the button at the left which is log in.
+
+And now, here is the Log In Window:
+![logIn1](https://user-images.githubusercontent.com/74671857/155678934-cfbf74e9-7c1c-47c8-8e0f-0013fae6a56d.JPG)
+
+Here we have an email entry field and a password field that are written by the user and then checked by the database using the pymysql library, and the forget password button here is clicked when you provide a valid email address only, and it looks like this:
+![logIn2](https://user-images.githubusercontent.com/74671857/155679234-34c61eab-5add-416b-b0d0-9d63dd28035f.JPG)
+
+Here it's asking for the question that you provided when you first registered and the answer for it, and the pymysql check for it, and then changes your passwrod if it was valid, and at last when you log in successfully it will give you 2 options:
+![logIn3](https://user-images.githubusercontent.com/74671857/155679581-12b6795b-5565-42ce-ae67-3a0e5b6e70c4.JPG)
+
+Where each one of these options will take you to a new window so lets first take a look at the GPA Calculator button:
+![gpaCalc1](https://user-images.githubusercontent.com/74671857/155680253-8fb89974-a97d-48f3-9abb-e69ccb3d0148.JPG)
+
+
+
+
+
