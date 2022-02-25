@@ -77,11 +77,26 @@ And then we have the second option after the successful log in which is the Mate
 
 ![materialInfo1](https://user-images.githubusercontent.com/74671857/155684267-45e35360-68fd-40a5-89f9-7a7ecc6c2294.JPG)
 
+At first we have the CS Material button that will give you a look at the material the university has:
 
+![materialInfo2](https://user-images.githubusercontent.com/74671857/155684770-37acc3ab-09ae-4e0e-9a08-dda936ee1302.JPG)
 
+and the the CS Plan button that will give you 2 options if you want to look at play that will help you to finish in 3 and half yeras or in 4 years:
 
+![materialInfo3](https://user-images.githubusercontent.com/74671857/155684917-88b02577-be8c-4e35-95b1-dff284a4fb4e.JPG)
 
+and if you clicked any button of these 2 options a table will be shown to you with each year and in each year the material you will take in each semester:
 
+![materialInfo4](https://user-images.githubusercontent.com/74671857/155685187-2eb71850-2190-4643-9fc9-f162206eeb3e.JPG)
 
+and at last the important one of them all is the search bar at the bottom, where at first you will enter the material name you want to search for, and if you don't know any material name you could press the CS Material button to view them, so lets take a look at one of them:'
+
+![materialInfo6](https://user-images.githubusercontent.com/74671857/155685541-84481eab-2cbd-43dc-b5f8-85f21ed90839.JPG)
+
+here we entered TM354 material to search for, and then we press the Search button:
+
+![materialInfo7](https://user-images.githubusercontent.com/74671857/155685718-0629e2ce-e2a2-4676-9331-2be38f5b6362.JPG)
+
+and this window will be shown with information you wnat about this material and a drive file that you could click to solve some exams for this particular course.
 
 
